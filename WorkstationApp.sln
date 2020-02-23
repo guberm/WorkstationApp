@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkstationApp", "Workstati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsClient.Android", "XamarinFormsClient\XamarinFormsClient.Android\XamarinFormsClient.Android.csproj", "{ED7A1746-F7E5-402D-B2BC-D1B8E619AE6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsClient", "XamarinFormsClient\XamarinFormsClient\XamarinFormsClient.csproj", "{FB9C1218-3FD7-4A84-8354-E3A9C13E9C95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinFormsClient", "XamarinFormsClient\XamarinFormsClient\XamarinFormsClient.csproj", "{FB9C1218-3FD7-4A84-8354-E3A9C13E9C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkstationService", "WorkstationService\WorkstationService.csproj", "{FA8DCD3D-F8E6-46F5-ACAA-295793BAE7BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{FB9C1218-3FD7-4A84-8354-E3A9C13E9C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB9C1218-3FD7-4A84-8354-E3A9C13E9C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB9C1218-3FD7-4A84-8354-E3A9C13E9C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8DCD3D-F8E6-46F5-ACAA-295793BAE7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8DCD3D-F8E6-46F5-ACAA-295793BAE7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8DCD3D-F8E6-46F5-ACAA-295793BAE7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8DCD3D-F8E6-46F5-ACAA-295793BAE7BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
